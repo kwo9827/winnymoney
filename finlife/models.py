@@ -3,7 +3,7 @@ from django.db import models
 # Create your models here.
 
 class DepositProducts(models.Model):
-    fin_prdt_cd = models.TextField()
+    fin_prdt_cd = models.TextField(unique=True)
     kor_co_nm = models.TextField()
     fin_prdt_nm = models.TextField()
     etc_note = models.TextField()
