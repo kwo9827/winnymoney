@@ -1,0 +1,22 @@
+{
+  "deposit_product": {
+      "id": 5,
+      "fin_prdt_cd": "10511009000987001",
+      "kor_co_nm": "한국은행",
+      "fin_prdt_nm": "스마트 저축예금",
+      "etc_note": "가입 최소 금액: 50만 원",
+      "join_deny": 0,
+      "join_member": "만 19세 이상 개인 및 법인",
+      "join_way": "영업점, 인터넷, 모바일 앱",
+      "spcl_cnd": "* 우대금리: 연 0.75%p\n - 신규 고객 첫 예금 가입 시: 연 0.20%p\n - 자동이체 설정 시: 연 0.15%p\n - 모바일 앱 가입 시: 연 0.10%p"
+  },
+  "options": {
+      "id": 15,
+      "fin_prdt_cd": "10511009000987001",
+      "intr_rate_type_nm": "복리",
+      "intr_rate": 2.75,
+      "intr_rate2": 3.45,
+      "save_trm": 24,
+      "product": 5
+  }
+}
